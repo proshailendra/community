@@ -1,4 +1,4 @@
-# Community Members Guidelines
+# Rules and Guidelines for DotNetTricks Community Members
 
 ## Our Pledge
 
